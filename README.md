@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Bruno-Fernandes-37
-- 👀 I’m interested in ...le devellopement web
+- 👀 I’m interested in ...le developpement web
 - 🌱 I’m currently learning ...les bases du dev
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...bruno.fernandes3789@gmail.com
