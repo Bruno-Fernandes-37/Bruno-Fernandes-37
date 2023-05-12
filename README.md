@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bruno-Fernandes-37
 - 👀 I’m interested in ... web development.
-- 🌱 I’m currently learning ... React, TS, Docker...
+- 🌱 I’m currently learning ... Java, Angular...
 - 💞️ I’m looking to collaborate on ... any project that can give me experience and further learning.
 - 📫 How to reach me ...bruno.fernandes3789@gmail.com
 
